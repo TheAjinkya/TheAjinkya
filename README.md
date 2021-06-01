@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**TheAjinkya/TheAjinkya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Ajinkya, the Front End Engineering Lead Developer. Nice to meet you!
 
   <ul>
       <li>🔭 I’m currently working on : Angular, React, TypeScript, Redux</li>
