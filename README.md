@@ -8,7 +8,7 @@ I'm Ajinkya, the Front End Engineering Lead Developer. Nice to meet you!
       <li>👯 I’m looking to collaborate on : NodeJS, React Projects</li>
       <li>💬 Ask me about : Angular & React</li>
       <li>📫 How to reach me: https://www.linkedin.com/in/aajinkya/ </li>
-      <li>⚡ Fun fact: You can call me anytime, even at 2AM and I would pick up the call and would ask you in the morning! </li>
+      <li>⚡ Fun fact: You can call me anytime, even at 2AM and I would pick up the call and would ask you to call in the morning! </li>
       </li>
     </ul>
 
