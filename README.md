@@ -12,9 +12,6 @@ I'm Ajinkya, the Front End Engineering Lead Developer. Nice to meet you!
       </li>
     </ul>
 
-I would like to show some of the code samples which I have created recently. Please have a look at that.
-
- 
 
 App: https://to-do-list-app-ten.vercel.app/
 
