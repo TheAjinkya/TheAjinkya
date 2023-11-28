@@ -8,22 +8,17 @@
 
 Throughout my career, I have excelled in developing and delivering web-based business intelligence solutions using a diverse range of technologies.
 
-✨ In my current role as a 'Senior Software Engineer-UI', I design and manage customized web applications and services using HTML5, CSS3, JavaScript, Angular V8/9/10, SCSS, ReactJS, Redux, NgRX, RxJS, and Agile/SCRUM methodologies. I am particularly proud of the following accomplishments:
-
-✨ Designed a business intelligence solution for a banking industry client “World Bank Group,” improving process accuracy by 11%, saving 1000+ hours yearly.
-
-✨ Developed a Personal Loan management application for “Discover Personal Loans Bank Inc.” that significantly enhanced the customer experience.
-
-✨ Programmed a customized software solution for “Ernst and Young Inc.,” enabling the client to track and improve vendor relations and procurement processes.
-
-✨ I am eager to contribute my skills and experience to your team, and I am confident in my ability to make a meaningful impact. I would greatly appreciate the opportunity to meet with you and further discuss how my qualifications align with your organization's goals.
-
-✍️ I have an unadulterated love for technical writing. I love to across a wide spectrum of technical topics. You can find my blogs on hashnode and medium. 
+✍️ I have an unadulterated love for technical writing. I love to across a wide spectrum of technical topics. You can find my blogs on <a href="https://aajinkya.hashnode.dev" target="blank">Hashnode</a> and <a href="https://medium.com/@ajinkya.chanshetty" target="blank">Medium</a>. 
+</p>
 
 🚀 Front end technologies: HTML5, CSS3, Bootstrap, SCSS, JavaScript, ES6, TypeScript
+
 🚀 UI Frameworks: Angular V10,12,14 and ReactJS, Redux, NgRx, NextJS
+
 🚀 Server-side Programming languages: JAVA, NodeJS
+
 🚀 Database: MongoDB, MySQL
+
 🚀 Also have Strong Problem-Solving Skills, and knowledge of Data Structures, and Algorithms.
 </p>
 
@@ -66,4 +61,6 @@ Throughout my career, I have excelled in developing and delivering web-based bus
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theajinkya&show_icons=true&locale=en" alt="theajinkya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theajinkya&" alt="theajinkya" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=theajinkya&" alt="theajinkya" />
+<img align="right" alt="GIF" src="https://github.com/JustinWang47/JustinWang47/blob/Temle/code.gif?raw=true" width="400" />
+</p>
