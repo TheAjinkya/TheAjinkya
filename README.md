@@ -62,5 +62,5 @@ Throughout my career, I have excelled in developing and delivering web-based bus
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theajinkya&show_icons=true&locale=en" alt="theajinkya" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=theajinkya&" alt="theajinkya" />
-<img align="right" alt="GIF" src="https://github.com/JustinWang47/JustinWang47/blob/Temle/code.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="https://github.com/JustinWang47/JustinWang47/blob/Temle/code.gif?raw=true" width="300" />
 </p>
